@@ -151,6 +151,12 @@ Integration with [the Graph](https://thegraph.com/) would lead to subgraphs for 
 ## F. Applications
 Thereafter, judging by the growth in institutional interest in Bitcoin evident through Grayscale's trust and ARK, Sovryn bears a unique advantage over **all** other protocols. It's the only smart contract network that's up and running well on Bitcoin with working features. Taking a leaf from [88mph](https://88mph.app/), familiar financial products could be created from Bitcoin which would lead to institutional funds flowing into Sovryn. This would tap on a completely new user base run by professional money managers.
 
+### G. Educate
+One concept is to view education as an onboarding process, not as from a 'knowledge acquisition' perspective. Right now most onboarding places the initiative to use the app squarely on the user. The user is expected to read, to learn, to set up, etc.
+
+Observing how [Dendron's onboarding video](https://wiki.dendron.so/#onboarding), community leads could take live videos of how they've guided others in short snippets to take specific actions. For blockchain apps the challenge has always been about getting used to the user interface and the waiting and response times. When dealing with money, people are naturally squeamish about any uncertainty in the user flow. Having a video to set expectations will help greatly.
+
+
 # Conclusion
 Sovryn protocol is poised to become an amazing ecosystem for 3 key reasons.
 1. Great User Interfaces
