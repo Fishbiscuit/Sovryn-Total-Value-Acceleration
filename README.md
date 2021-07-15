@@ -20,7 +20,7 @@ Today, on 15th July, make up of the Defi market has changed drastically. TVL is 
 Ethereum has about 82.7B USD locked (-29%) but making up 75.9% of the market
 BSC has 13.7B USD locked (-53%) and only makes up 12.6%.
 
-This paper focuses on growing a sustainable ecosystem for Sovryn in order to increase its TVL with the potential for explosive growth from its current TVL of 53M on 15th July.
+This paper focuses on growing a sustainable ecosystem for Sovryn in order to increase its TVL with the potential for explosive growth from its current TVL of 53M on 15th July. The recommendations are designed to be low effort and high impact so as to bootstrap the Sovryn ecosystem for success. Initiatives should be implementable within a 3 month timeframe.
 
 # 2. Contribution
 
