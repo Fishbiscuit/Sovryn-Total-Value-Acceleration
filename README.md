@@ -158,3 +158,5 @@ Sovryn protocol is poised to become an amazing ecosystem for 3 key reasons.
 3. No legacy Apps
 
 A curated approached such as the TVA Initiative could balance the dearth of developers with the need to build new features by focusing on the most important financial infrastructure that will build up Sovryn's vision of becoming a Finanical OS.
+
+All work is released under any GPLv3 compatible licenses.
